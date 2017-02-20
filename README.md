@@ -3,6 +3,7 @@
 ## Requirements
 * NodeJS
 * NPM
+* MondoDB
 
 ## Installation
 * `npm install` - to install the dependencies
