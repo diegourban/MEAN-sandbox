@@ -3,8 +3,8 @@ var api = {};
 var CONTADOR = 2;
 
 var fotos = [
-  {_id: 1, titulo: 'Leão 1', url: 'http://www.fundosanimais.com/Minis/leoes.jpg'},
-  {_id: 2, titulo: 'Leão 2', url: 'http://www.fundosanimais.com/Minis/leoes.jpg'}
+  {_id: 1, titulo: 'Leão', url: 'http://www.fundosanimais.com/Minis/leoes.jpg'},
+  {_id: 2, titulo: 'Lobo', url: 'http://www.fundosanimais.com/Minis/lobo.jpg'}
 ];
 
 api.lista = function(req, res) {
